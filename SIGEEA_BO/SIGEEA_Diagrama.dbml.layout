@@ -1,0 +1,1004 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 23, 57.125" name="DataClasses1">
+  <DataContextMoniker Name="/DataClasses1DataContext" />
+  <nestedChildShapes>
+    <classShape Id="e9415538-da5b-45ce-b7d9-b2e4102bdd2d" absoluteBounds="9.25, 41.25, 2, 1.9631982421875023">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_Usuario" />
+      <nestedChildShapes>
+        <elementListCompartment Id="196f8489-2186-44cc-b4f5-97883c0bfd12" absoluteBounds="9.265, 41.71, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="30027cea-d886-4a9b-85ce-8719cf9165cf" absoluteBounds="12.25, 25.875, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_AboCliente" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1afbee50-302d-4516-9343-9ca04465d4f6" absoluteBounds="12.265, 26.335, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="91371086-84b5-48c8-8a14-80b8e12059a9" absoluteBounds="4.75, 5, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_Anualidad" />
+      <nestedChildShapes>
+        <elementListCompartment Id="88695d19-033e-481b-93cd-2e47463e6d22" absoluteBounds="4.765, 5.46, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="525ffdd4-32c1-4da4-894b-2842addea3f7" absoluteBounds="6.5, 15.375, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_Asamblea" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6b01ccd5-6649-481a-9cff-7db664496b19" absoluteBounds="6.515, 15.835, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a6024589-8b77-415c-a76f-f78fe60c1c60" absoluteBounds="9.25, 26.375, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_AsiAsamblea" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8784a5a6-0abd-40f8-8d22-5bf16d2c18bc" absoluteBounds="9.265, 26.835, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5a399b12-7681-4fac-8662-6fbe43540a53" absoluteBounds="6.5, 26, 2, 2.3478011067708309">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_Asociado" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4e6803ca-af3d-4c9e-b8a2-b2ee3f939ed5" absoluteBounds="6.515, 26.46, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1ed956d0-006c-4af1-b9b9-09a931243e87" absoluteBounds="9.25, 23.375, 2, 1.7708968098958309">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_AsociadoXPagAsociado" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5ff53266-bdfa-4795-8a01-2357599a2006" absoluteBounds="9.265, 23.835, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b958ae6e-d3cf-41c7-8b6d-dbf07a7fbe1f" absoluteBounds="3.5, 30.5, 2, 1.1939925130208309">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_Banco" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2f631466-10b9-4d22-9b23-00f1d3ea6853" absoluteBounds="3.515, 30.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6c8a67f2-1d53-4e75-8c9e-1257b1cb765b" absoluteBounds="3.5, 32.375, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_Bodega" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8e006bd8-5fe7-4e47-a89a-d5eac0ffaf2c" absoluteBounds="3.515, 32.835, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="943da2fb-73e7-4b9c-ad37-6f5c7af55c33" absoluteBounds="2, 24.75, 2, 1.3862939453125023">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_Canton" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b51d85f3-31c9-4e80-b8d3-5550c4a767ad" absoluteBounds="2.015, 25.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d4fde087-f008-42c8-877e-22d6edfc0b5d" absoluteBounds="3.75, 19.25, 2, 1.3862939453125023">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_CatAsociado" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c32d8b19-8796-4da5-8530-079d9af1c6d0" absoluteBounds="3.765, 19.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1978be8b-ed73-4c1e-a606-3e5cbc96926a" absoluteBounds="0.75, 27.375, 2, 1.7708968098958309">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_CatCliente" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4acf87df-e6d7-4486-b8ea-944c41a2400b" absoluteBounds="0.765, 27.835, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e92be72f-1c07-4174-9f56-b4e4b31e7183" absoluteBounds="3.5, 27.375, 2, 1.7708968098958309">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_Cliente" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6c3aa55f-55ce-4ff5-9dce-88c8411936b0" absoluteBounds="3.515, 27.835, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="20ac59d6-2a3d-45ee-9afb-c74980538b94" absoluteBounds="1.75, 6.625, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_CodPostal" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6a571674-920c-4c14-9879-3a7b9a23058d" absoluteBounds="1.7650000000000001, 7.085, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b2916da7-2d6f-48ec-a047-a96660141797" absoluteBounds="6.5, 11.625, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_Contacto" />
+      <nestedChildShapes>
+        <elementListCompartment Id="24339b32-0151-4169-91e2-a07bd89e7008" absoluteBounds="6.515, 12.085, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="44759a5e-13f2-4fc9-9380-62159cf58151" absoluteBounds="6.25, 21.875, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_CreCliente" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0f262d40-6d12-4edd-b5f5-c0d5c13d12ef" absoluteBounds="6.265, 22.335, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="41725523-aa92-4f1f-a336-47bbebcfedd7" absoluteBounds="6.25, 29.125, 2, 1.7708968098958309">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_Cuenta" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d478c145-0769-4ae6-8318-1611861174ec" absoluteBounds="6.265, 29.585, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="988c160c-dd8f-4377-b4c3-3cb9f87ed3a3" absoluteBounds="6.5, 43.25, 2, 1.9631982421875023">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_Cuota" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1101171a-a6eb-4d4f-883a-5c24641ba977" absoluteBounds="6.515, 43.71, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="656521f9-ffdd-4662-a13e-5d847415e048" absoluteBounds="9.25, 29.375, 2, 1.7708968098958309">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_Cuota_Asociado" />
+      <nestedChildShapes>
+        <elementListCompartment Id="da531f46-08a5-49c7-822a-49397bccd486" absoluteBounds="9.265, 29.835, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="210be30e-f972-4f70-8d46-501f0e1f2e3c" absoluteBounds="12, 37.625, 2, 2.5401025390625023">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_DetFacAsociado" />
+      <nestedChildShapes>
+        <elementListCompartment Id="82999730-f164-40e0-a582-c192a84ff8e8" absoluteBounds="12.015, 38.085, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ac9f148e-b374-48db-8474-4698530e0080" absoluteBounds="18, 30.875, 2, 2.7324039713541595">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_DetFacCliente" />
+      <nestedChildShapes>
+        <elementListCompartment Id="eb917af3-fca9-4539-b173-c499fb6c1afb" absoluteBounds="18.015, 31.335, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="28309381-47af-41e2-8249-fc5e12a503c4" absoluteBounds="20.75, 39.875, 2, 1.7708968098958309">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_DetFacInsumo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="26d3b50c-b499-4e92-a759-a281765904bc" absoluteBounds="20.765, 40.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b1be0649-681d-4260-84d2-cb19e1a1ce11" absoluteBounds="9, 32.25, 2, 1.7708968098958309">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_DetInvProducto" />
+      <nestedChildShapes>
+        <elementListCompartment Id="94742d4e-4306-4d09-a2ef-675397c941c5" absoluteBounds="9.015, 32.71, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="07849ab4-6c25-49bb-8215-ad49853c03a1" absoluteBounds="15, 38.5, 2, 1.5785953776041595">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_DetPagEmpleado" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ea68a18e-c582-4f13-be60-af0f58408fa5" absoluteBounds="15.015, 38.96, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e5eba6ae-358c-4d68-990e-77dd88f031a5" absoluteBounds="1, 12.625, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_Direccion" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3e11037e-eb64-4ecf-9c9d-6fa087330ad5" absoluteBounds="1.0150000000000001, 13.085, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c957c536-09f5-49c0-9499-13f18c3e821d" absoluteBounds="1.75, 21.75, 2, 1.3862939453125023">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_Distrito" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f90fcb27-c611-44e6-86af-4fc978cc8a2b" absoluteBounds="1.7650000000000001, 22.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ca047a8b-ec7d-4476-a843-b639dd9fcdb1" absoluteBounds="3.5, 35.375, 2, 1.7708968098958309">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_Empleado" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5540e6e1-a09b-4dd8-ac7c-9f9c11cb9e23" absoluteBounds="3.515, 35.835, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="98981318-cc71-44c4-b5cc-ba62037e47de" absoluteBounds="0.75, 31.25, 2, 1.9631982421875023">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_Empresa" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2374e147-cde1-444a-bf2f-6c7ce619737a" absoluteBounds="0.765, 31.71, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fc538a56-6623-4586-84d9-7aff977245e3" absoluteBounds="0.75, 35.375, 2, 1.7708968098958309">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_Escolaridad" />
+      <nestedChildShapes>
+        <elementListCompartment Id="35453e17-235a-4472-9cb7-056f07e3489e" absoluteBounds="0.765, 35.835, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fe3320dc-3a33-471d-85d1-44a3785b0a52" absoluteBounds="2, 3.625, 2, 1.3862939453125">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_Estado" />
+      <nestedChildShapes>
+        <elementListCompartment Id="27700fd7-d041-4619-b40e-5671320442cf" absoluteBounds="2.015, 4.085, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9caed52c-9653-4a9f-9e5e-568a56421de0" absoluteBounds="6.25, 48.75, 2, 2.5401025390625023">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_Experiencia" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bfa63f28-71d7-441c-9f53-ccc428976f0e" absoluteBounds="6.265, 49.21, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="84a781d3-2299-4330-b899-7defeb72208a" absoluteBounds="9.25, 37.625, 2, 2.5401025390625023">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_FacAsociado" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d1910838-8da9-41ca-a046-6c387716b99f" absoluteBounds="9.265, 38.085, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1c304b47-5d55-4269-84ec-b5edcf09d748" absoluteBounds="15.25, 30.5, 2, 3.3093082682291595">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_FacCliente" />
+      <nestedChildShapes>
+        <elementListCompartment Id="89ac884d-ddf8-4ff4-a2b2-4a3ef627e550" absoluteBounds="15.265, 30.96, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c50ace68-b8fc-41a7-998a-e5fe1b9cbdfd" absoluteBounds="15.25, 35, 2, 2.3478011067708309">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_FacInsumo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="358851b6-eedd-4e9e-b3e8-61347db7e647" absoluteBounds="15.265, 35.46, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b89bf85f-7259-4167-8cab-3b2c99ff1a0e" absoluteBounds="9.25, 35, 2, 1.7708968098958309">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_Familiar" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b57ec4a9-c008-456d-b921-d64c77d70b25" absoluteBounds="9.265, 35.46, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b6fc547f-90bb-479a-bc09-bdd41b241d7c" absoluteBounds="12.25, 29.875, 2, 3.5016097005208273">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_Finca" />
+      <nestedChildShapes>
+        <elementListCompartment Id="867abd37-1f01-4470-8714-13536e0da63a" absoluteBounds="12.265, 30.335, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b00f2d65-e038-4426-8bbb-53793296f466" absoluteBounds="6.25, 38.75, 2, 1.3862939453125023">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_HisDelictivo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4cb7afef-4e73-4443-b48d-d77d7f6db0e8" absoluteBounds="6.265, 39.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="61ce4b61-24e3-47b8-93ec-f7007e7ef034" absoluteBounds="12.25, 34.125, 2, 2.1554996744791595">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_HorLaborada" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3634c38c-a32b-4705-9ca8-ea47be02b6fa" absoluteBounds="12.265, 34.585, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fcbe66d1-bbfc-4b43-8850-1f1edeaae1a7" absoluteBounds="3.75, 52.375, 2, 1.5785953776041595">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_Insumo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="da9a4b59-747a-490b-a7d4-2ef276b71a57" absoluteBounds="3.765, 52.835, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="884eaa81-1021-491f-9d17-4df7abe9e120" absoluteBounds="18, 40, 2, 1.5785953776041737">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_InvInsumo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d2b3a894-0c5f-4bd2-a50b-54d92213faa3" absoluteBounds="18.015, 40.46, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="bda20b3d-79b8-4640-843b-fb4accc45bd1" absoluteBounds="6.25, 32.5, 2, 1.3862939453125023">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_InvProducto" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1bc0e01b-d129-46cf-9eb1-a80543f2d61f" absoluteBounds="6.265, 32.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="172b3405-79bb-4aa9-a7ca-dbe558a7f41b" absoluteBounds="6.75, 8, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_Lote" />
+      <nestedChildShapes>
+        <elementListCompartment Id="43a59a5a-177c-445b-8b84-423f885342c4" absoluteBounds="6.765, 8.46, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="23bc7c4f-98b5-46b4-b42d-7132ecc1ad74" absoluteBounds="4.75, 2.25, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_Modulo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4f027faa-5942-40cf-b370-be2b9476ac26" absoluteBounds="4.765, 2.71, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e8fa3bb4-4599-4cb2-8030-3339da10a010" absoluteBounds="3.75, 43.25, 2, 1.9631982421875023">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_Moneda" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c3a73fb0-97e7-40e6-88f3-b890b249d986" absoluteBounds="3.765, 43.71, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cf50e437-fd01-4cb4-9bb5-7140f646f12a" absoluteBounds="1, 9.75, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_Nacionalidad" />
+      <nestedChildShapes>
+        <elementListCompartment Id="62a16cbd-d483-4cc2-b84d-d02a2ac95fe1" absoluteBounds="1.0150000000000001, 10.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e17c75c7-e0f0-4d40-81fc-77f49cb6d987" absoluteBounds="6.5, 18.375, 2, 1.7708968098958309">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_PagAsociado" />
+      <nestedChildShapes>
+        <elementListCompartment Id="809f8e24-62e1-494b-a4c7-ae5ce36084b6" absoluteBounds="6.515, 18.835, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0c2a12ea-2a17-4427-84da-ee6819d2ab73" absoluteBounds="6.25, 40.875, 2, 1.5785953776041595">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_PagEmpleado" />
+      <nestedChildShapes>
+        <elementListCompartment Id="43548068-acf1-4b2e-b518-6701e8e30b33" absoluteBounds="6.265, 41.335, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="eb2d3ecd-7c91-4c01-8b3c-ef43bc952a65" absoluteBounds="2.25, 0.75, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_Pai" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2716cf13-b434-4ed3-8b14-1a4a355f788f" absoluteBounds="2.265, 1.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d5ae405e-ac49-4302-9df1-cba6ee80f9ae" absoluteBounds="7.75, 5, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_Parentesco" />
+      <nestedChildShapes>
+        <elementListCompartment Id="de7d6f01-02d0-4114-ac18-e1698f6a8427" absoluteBounds="7.765, 5.46, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="363f7ced-b2e6-40c7-860a-0f105c4d06b2" absoluteBounds="12.25, 41.125, 2, 2.1554996744791595">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_PedInsumo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="223fe5c5-2daf-42b3-a289-1deab2e1a705" absoluteBounds="12.265, 41.585, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="557a1f9b-3c80-447d-9df0-fc79466a8b76" absoluteBounds="9.75, 7, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_PerExportacion" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8357e165-2084-4e87-8811-6edc98b7883d" absoluteBounds="9.765, 7.46, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="10f4dda0-0cb8-4571-8662-0f04337ee89e" absoluteBounds="3.75, 55.625, 2, 1.1939925130208309">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_Permiso" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f4fd7763-c46d-4753-a36e-a86b07742077" absoluteBounds="3.765, 56.085, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3d0a4744-8833-49bd-8385-7f2ea3c9bc07" absoluteBounds="15.25, 24.75, 2, 1.3862939453125023">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_Permiso_SubModulo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="dc2f833e-f2c9-4ce6-a8f7-21860159af7f" absoluteBounds="15.265, 25.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a08d47b9-fb44-45ac-8f11-e5053449eddd" absoluteBounds="3.75, 10.875, 2, 3.1170068359375023">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_Persona" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4554e341-49f2-40b6-af4f-4d929fb4b27a" absoluteBounds="3.765, 11.335, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="def344c4-23ef-46ee-b9d0-960aa06d6da1" absoluteBounds="9.25, 46, 2, 1.7708968098958309">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_PreProCompra" />
+      <nestedChildShapes>
+        <elementListCompartment Id="79303376-2424-4ec2-9c62-aee2087f28f1" absoluteBounds="9.265, 46.46, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="43a6a394-8aeb-4288-bd7c-8b1c4bba33f8" absoluteBounds="12.25, 44.5, 2, 1.9631982421875023">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_PreProVenta" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e24fddc1-64ba-455e-98dd-6cdbd8b3fed5" absoluteBounds="12.265, 44.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1b360c7a-7c3d-40cb-9983-bb52c6024fec" absoluteBounds="6.5, 35.25, 2, 1.9631982421875023">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_Proveedor" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4598670f-c2fa-4388-848f-c460a6c48625" absoluteBounds="6.515, 35.71, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fd265b31-3b5a-4244-86f3-0c44c063e702" absoluteBounds="2.25, 38.75, 2, 1.3862939453125023">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_Provincia" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f116a83e-d539-4200-a02b-27a9a0536ed9" absoluteBounds="2.265, 39.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="49caf36d-62a5-4d5d-ba63-dfb27fdbe7ab" absoluteBounds="9.5, 20.375, 2, 1.7708968098958309">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_PueTemporal" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3b64a226-0d63-4eec-8e4f-e4cddaae3040" absoluteBounds="9.515, 20.835, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="366ddc84-3d6f-4a5a-95e6-56a76808c65c" absoluteBounds="3.75, 16.375, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_Representante" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fcdc0077-7651-483e-b714-9e9446a06d48" absoluteBounds="3.765, 16.835, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="388562aa-5398-4b17-a61b-7409b07bc0c6" absoluteBounds="6.5, 55.5, 2, 1.3862939453125023">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_Rol" />
+      <nestedChildShapes>
+        <elementListCompartment Id="641667a5-99d9-47a3-a3d6-aabc7e46002d" absoluteBounds="6.515, 55.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d5efc89f-e0ec-4c41-a44d-3f7d5cd35805" absoluteBounds="7.5, 2.125, 2, 1.3862939453125">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_SubModulo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="55d3964e-5bf8-4791-8900-4d3abeaf9fe9" absoluteBounds="7.515, 2.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fe106420-fd43-4727-9528-344c45465296" absoluteBounds="1.5, 46.625, 2, 1.1939925130208309">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_TipCatCliente" />
+      <nestedChildShapes>
+        <elementListCompartment Id="04928364-a866-49e9-bed2-b4168dc8232e" absoluteBounds="1.5150000000000001, 47.085, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="62bddd30-07fe-4966-8d69-ca945c692799" absoluteBounds="3.75, 8.875, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_TipContacto" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e06dfee1-a7de-456a-882b-1684ac8b0540" absoluteBounds="3.765, 9.335, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cf198a23-428d-4101-99c3-172302a9bd93" absoluteBounds="6.5, 46, 2, 1.5785953776041595">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_TipProducto" />
+      <nestedChildShapes>
+        <elementListCompartment Id="606b4112-e38b-4cb3-928d-cd61124cbbd1" absoluteBounds="6.515, 46.46, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="52899f39-c504-4156-855a-e10ea39542df" absoluteBounds="15.25, 27.5, 2, 1.3862939453125023">
+      <DataClassMoniker Name="/DataClasses1DataContext/SIGEEA_UniMedida" />
+      <nestedChildShapes>
+        <elementListCompartment Id="eba96b8d-78af-4c95-b579-23a33f23ffd5" absoluteBounds="15.265, 27.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(8.5 : 17.1458968098958); (8.875 : 17.5208968098958); (8.875 : 27.1642976888021); (9.25 : 27.1642976888021)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Asamblea/SIGEEA_Asamblea_SIGEEA_AsiAsamblea" />
+      <nodes>
+        <classShapeMoniker Id="525ffdd4-32c1-4da4-894b-2842addea3f7" />
+        <classShapeMoniker Id="a6024589-8b77-415c-a76f-f78fe60c1c60" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.5 : 26.707148844401); (8.79166666666667 : 26.707148844401 : JumpStart); (8.95833333333333 : 26.707148844401 : JumpEnd); (9.25 : 26.707148844401)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Asociado/SIGEEA_Asociado_SIGEEA_AsiAsamblea" />
+      <nodes>
+        <classShapeMoniker Id="5a399b12-7681-4fac-8662-6fbe43540a53" />
+        <classShapeMoniker Id="a6024589-8b77-415c-a76f-f78fe60c1c60" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.40625 : 26); (8.40625 : 24.907900390625); (8.79166666666667 : 24.907900390625 : JumpStart); (8.95833333333333 : 24.907900390625 : JumpEnd); (9.25 : 24.907900390625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Asociado/SIGEEA_Asociado_SIGEEA_AsociadoXPagAsociado" />
+      <nodes>
+        <classShapeMoniker Id="5a399b12-7681-4fac-8662-6fbe43540a53" />
+        <classShapeMoniker Id="1ed956d0-006c-4af1-b9b9-09a931243e87" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.65625 : 20.6362939453125); (5.65625 : 26.7556469726563); (5.79166666666667 : 26.7556469726563 : JumpStart); (6.27083333333333 : 26.7556469726563 : JumpEnd); (6.5 : 26.7556469726563)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_CatAsociado/SIGEEA_CatAsociado_SIGEEA_Asociado" />
+      <nodes>
+        <classShapeMoniker Id="d4fde087-f008-42c8-877e-22d6edfc0b5d" />
+        <classShapeMoniker Id="5a399b12-7681-4fac-8662-6fbe43540a53" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 28.5088525390625); (5.61979166666667 : 28.5088525390625 : JumpStart); (5.78645833333333 : 28.5088525390625 : JumpEnd); (5.79166666666667 : 28.5088525390625 : JumpStart); (6.33333333333333 : 28.5088525390625 : JumpEnd); (7.32291341666667 : 28.5088525390625 : JumpStart); (7.48958008333333 : 28.5088525390625 : JumpEnd); (7.80728879166667 : 28.5088525390625 : JumpStart); (7.97395545833333 : 28.5088525390625 : JumpEnd); (8.29166416666667 : 28.5088525390625 : JumpStart); (8.52083583333333 : 28.5088525390625 : JumpEnd); (11.3229166666667 : 28.5088525390625 : JumpStart); (11.7083333333333 : 28.5088525390625 : JumpEnd); (11.7916666666667 : 28.5088525390625 : JumpStart); (11.9583333333333 : 28.5088525390625 : JumpEnd); (12.25 : 28.5088525390625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Cliente/SIGEEA_Cliente_SIGEEA_AboCliente" />
+      <nodes>
+        <classShapeMoniker Id="e92be72f-1c07-4174-9f56-b4e4b31e7183" />
+        <classShapeMoniker Id="30027cea-d886-4a9b-85ce-8719cf9165cf" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 28.2604484049479); (2.82291666666667 : 28.2604484049479 : JumpStart); (2.98958333333333 : 28.2604484049479 : JumpEnd); (3.19791666666667 : 28.2604484049479 : JumpStart); (3.36458333333333 : 28.2604484049479 : JumpEnd); (3.5 : 28.2604484049479)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_CatCliente/SIGEEA_CatCliente_SIGEEA_Cliente" />
+      <nodes>
+        <classShapeMoniker Id="1978be8b-ed73-4c1e-a606-3e5cbc96926a" />
+        <classShapeMoniker Id="e92be72f-1c07-4174-9f56-b4e4b31e7183" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.78125 : 27.375); (4.78125 : 23.9030989583333); (5.57291666666667 : 23.9030989583333 : JumpStart); (6.20833333333333 : 23.9030989583333 : JumpEnd); (6.25 : 23.9030989583333)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Cliente/SIGEEA_Cliente_SIGEEA_CreCliente" />
+      <nodes>
+        <classShapeMoniker Id="e92be72f-1c07-4174-9f56-b4e4b31e7183" />
+        <classShapeMoniker Id="44759a5e-13f2-4fc9-9380-62159cf58151" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 30.6979484049479); (5.61979166666667 : 30.6979484049479 : JumpStart); (5.78645833333333 : 30.6979484049479 : JumpEnd); (5.85416666666667 : 30.6979484049479 : JumpStart); (6.14583333333333 : 30.6979484049479 : JumpEnd); (6.25 : 30.6979484049479)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Banco/SIGEEA_Banco_SIGEEA_Cuenta" />
+      <nodes>
+        <classShapeMoniker Id="b958ae6e-d3cf-41c7-8b6d-dbf07a7fbe1f" />
+        <classShapeMoniker Id="41725523-aa92-4f1f-a336-47bbebcfedd7" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.40625 : 28.3478011067708); (8.40625 : 31.0521468098958); (8.54166666666667 : 31.0521468098958 : JumpStart); (8.83333333333333 : 31.0521468098958 : JumpEnd); (9.01041666666667 : 31.0521468098958 : JumpStart); (9.17708333333333 : 31.0521468098958 : JumpEnd); (9.25 : 31.0521468098958)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Asociado/SIGEEA_Asociado_SIGEEA_Cuota_Asociado" />
+      <nodes>
+        <classShapeMoniker Id="5a399b12-7681-4fac-8662-6fbe43540a53" />
+        <classShapeMoniker Id="656521f9-ffdd-4662-a13e-5d847415e048" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.5 : 44.2315991210938); (8.79166666666667 : 44.2315991210938 : JumpStart); (8.95833333333333 : 44.2315991210938 : JumpEnd); (9 : 44.2315991210938); (9 : 34.2708968098958); (11.25 : 34.2708968098958); (11.25 : 31.5208968098958); (10.25 : 31.5208968098958); (10.25 : 31.1458968098958)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Cuota/SIGEEA_Cuota_SIGEEA_Cuota_Asociado" />
+      <nodes>
+        <classShapeMoniker Id="988c160c-dd8f-4377-b4c3-3cb9f87ed3a3" />
+        <classShapeMoniker Id="656521f9-ffdd-4662-a13e-5d847415e048" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3.3437505 : 8.0112939453125); (3.3437505 : 13.4142976888021); (3.20833333333333 : 13.4142976888021 : JumpStart); (3.04166666666667 : 13.4142976888021 : JumpEnd); (3 : 13.4142976888021)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_CodPostal/SIGEEA_CodPostal_SIGEEA_Direccion" />
+      <nodes>
+        <classShapeMoniker Id="20ac59d6-2a3d-45ee-9afb-c74980538b94" />
+        <classShapeMoniker Id="e5eba6ae-358c-4d68-990e-77dd88f031a5" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.375 : 21.75); (2.375 : 14.2035953776042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Distrito/SIGEEA_Distrito_SIGEEA_Direccion" />
+      <nodes>
+        <classShapeMoniker Id="c957c536-09f5-49c0-9499-13f18c3e821d" />
+        <classShapeMoniker Id="e5eba6ae-358c-4d68-990e-77dd88f031a5" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.875 : 24.75); (2.875 : 23.1362939453125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Canton/SIGEEA_Canton_SIGEEA_Distrito" />
+      <nodes>
+        <classShapeMoniker Id="943da2fb-73e7-4b9c-ad37-6f5c7af55c33" />
+        <classShapeMoniker Id="c957c536-09f5-49c0-9499-13f18c3e821d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.90625 : 37.1458968098958); (4.90625 : 42.8646468098958); (5.24479116666667 : 42.8646468098958 : JumpStart); (5.41145783333333 : 42.8646468098958 : JumpEnd); (5.61979166666667 : 42.8646468098958 : JumpStart); (5.78645833333333 : 42.8646468098958 : JumpEnd); (5.91666666666667 : 42.8646468098958 : JumpStart); (6.14583333333333 : 42.8646468098958 : JumpEnd); (8.79166666666667 : 42.8646468098958 : JumpStart); (9.08333333333333 : 42.8646468098958 : JumpEnd); (9.25 : 42.8646468098958)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Empleado/SIGEEA_Empleado_SIGEEA_Usuario" />
+      <nodes>
+        <classShapeMoniker Id="ca047a8b-ec7d-4476-a843-b639dd9fcdb1" />
+        <classShapeMoniker Id="e9415538-da5b-45ce-b7d9-b2e4102bdd2d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 36.2604484049479); (5.61979166666667 : 36.2604484049479 : JumpStart); (5.78645833333333 : 36.2604484049479 : JumpEnd); (6.25 : 36.2604484049479); (6.25 : 34.75); (8.32291666666667 : 34.75 : JumpStart); (8.48958333333333 : 34.75 : JumpEnd); (8.54166666666667 : 34.75 : JumpStart); (8.83333333333333 : 34.75 : JumpEnd); (8.85416666666667 : 34.75 : JumpStart); (9.08333333333333 : 34.75 : JumpEnd); (11.5416666666667 : 34.75 : JumpStart); (11.8333333333333 : 34.75 : JumpEnd); (12 : 34.75); (12 : 28.9824039713542); (13.25 : 28.9824039713542); (13.25 : 28.6074039713542)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Empleado/SIGEEA_Empleado_SIGEEA_AboCliente" />
+      <nodes>
+        <classShapeMoniker Id="ca047a8b-ec7d-4476-a843-b639dd9fcdb1" />
+        <classShapeMoniker Id="30027cea-d886-4a9b-85ce-8719cf9165cf" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 32.0344962565104); (2.82291666666667 : 32.0344962565104 : JumpStart); (2.98958333333333 : 32.0344962565104 : JumpEnd); (3.19791666666667 : 32.0344962565104 : JumpStart); (3.36458333333333 : 32.0344962565104 : JumpEnd); (5.61979166666667 : 32.0344962565104 : JumpStart); (5.78645833333333 : 32.0344962565104 : JumpEnd); (5.79166666666667 : 32.0344962565104 : JumpStart); (6.27083333333333 : 32.0344962565104 : JumpEnd); (8.3749975 : 32.0344962565104); (8.3749975 : 28.3478011067708)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Empresa/SIGEEA_Empresa_SIGEEA_Asociado" />
+      <nodes>
+        <classShapeMoniker Id="98981318-cc71-44c4-b5cc-ba62037e47de" />
+        <classShapeMoniker Id="5a399b12-7681-4fac-8662-6fbe43540a53" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 31.4719962565104); (2.82291666666667 : 31.4719962565104 : JumpStart); (2.98958333333333 : 31.4719962565104 : JumpEnd); (3.19791666666667 : 31.4719962565104 : JumpStart); (3.36458333333333 : 31.4719962565104 : JumpEnd); (3.5 : 31.4719962565104)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Empresa/SIGEEA_Empresa_SIGEEA_Banco" />
+      <nodes>
+        <classShapeMoniker Id="98981318-cc71-44c4-b5cc-ba62037e47de" />
+        <classShapeMoniker Id="b958ae6e-d3cf-41c7-8b6d-dbf07a7fbe1f" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 32.7940991210938); (2.82291666666667 : 32.7940991210938 : JumpStart); (2.98958333333333 : 32.7940991210938 : JumpEnd); (3.19791666666667 : 32.7940991210938 : JumpStart); (3.36458333333333 : 32.7940991210938 : JumpEnd); (3.5 : 32.7940991210938)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Empresa/SIGEEA_Empresa_SIGEEA_Bodega" />
+      <nodes>
+        <classShapeMoniker Id="98981318-cc71-44c4-b5cc-ba62037e47de" />
+        <classShapeMoniker Id="6c8a67f2-1d53-4e75-8c9e-1257b1cb765b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 31.251509152494); (2.84732443490112 : 31.1541847175929 : JumpStart); (2.96517556509888 : 31.0363335873951 : JumpEnd); (3.125 : 30.876509152494); (3.125 : 28.7344246074219); (3.19791666666667 : 28.7344246074219 : JumpStart); (3.36458333333333 : 28.7344246074219 : JumpEnd); (3.5 : 28.7344246074219)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Empresa/SIGEEA_Empresa_SIGEEA_Cliente" />
+      <nodes>
+        <classShapeMoniker Id="98981318-cc71-44c4-b5cc-ba62037e47de" />
+        <classShapeMoniker Id="e92be72f-1c07-4174-9f56-b4e4b31e7183" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 33.2131982421875); (2.84732443490112 : 33.3105226770886 : JumpStart); (2.96517556509888 : 33.4283738072864 : JumpEnd); (3.125 : 33.5881982421875); (3.125 : 36.2604484049479); (3.19791666666667 : 36.2604484049479 : JumpStart); (3.36458333333333 : 36.2604484049479 : JumpEnd); (3.5 : 36.2604484049479)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Empresa/SIGEEA_Empresa_SIGEEA_Empleado" />
+      <nodes>
+        <classShapeMoniker Id="98981318-cc71-44c4-b5cc-ba62037e47de" />
+        <classShapeMoniker Id="ca047a8b-ec7d-4476-a843-b639dd9fcdb1" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 35.755224202474); (2.82291666666667 : 35.755224202474 : JumpStart); (2.98958333333333 : 35.755224202474 : JumpEnd); (3.04166666666667 : 35.755224202474 : JumpStart); (3.36458333333333 : 35.755224202474 : JumpEnd); (3.5 : 35.755224202474)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Escolaridad/SIGEEA_Escolaridad_SIGEEA_Empleado" />
+      <nodes>
+        <classShapeMoniker Id="fc538a56-6623-4586-84d9-7aff977245e3" />
+        <classShapeMoniker Id="ca047a8b-ec7d-4476-a843-b639dd9fcdb1" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.875 : 5.0112939453125); (2.875 : 6.625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Estado/SIGEEA_Estado_SIGEEA_CodPostal" />
+      <nodes>
+        <classShapeMoniker Id="fe3320dc-3a33-471d-85d1-44a3785b0a52" />
+        <classShapeMoniker Id="20ac59d6-2a3d-45ee-9afb-c74980538b94" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 36.7344246074219); (5.61979166666667 : 36.7344246074219 : JumpStart); (5.78645833333333 : 36.7344246074219 : JumpEnd); (6 : 36.7344246074219); (6 : 48.375); (7.25 : 48.375); (7.25 : 48.75)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Empleado/SIGEEA_Empleado_SIGEEA_Experiencia" />
+      <nodes>
+        <classShapeMoniker Id="ca047a8b-ec7d-4476-a843-b639dd9fcdb1" />
+        <classShapeMoniker Id="9caed52c-9653-4a9f-9e5e-568a56421de0" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.25 : 38.8950512695313); (12 : 38.8950512695313)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_FacAsociado/SIGEEA_FacAsociado_SIGEEA_DetFacAsociado" />
+      <nodes>
+        <classShapeMoniker Id="84a781d3-2299-4330-b899-7defeb72208a" />
+        <classShapeMoniker Id="210be30e-f972-4f70-8d46-501f0e1f2e3c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(7.40624675 : 28.3478011067708); (7.40624675 : 28.875); (7.80728879166667 : 28.875 : JumpStart); (7.97395545833333 : 28.875 : JumpEnd); (8.29166416666667 : 28.875 : JumpStart); (8.52083583333333 : 28.875 : JumpEnd); (8.75 : 28.875); (8.75 : 38.8950512695313); (8.85416666666667 : 38.8950512695313 : JumpStart); (9.20833333333333 : 38.8950512695313 : JumpEnd); (9.25 : 38.8950512695313)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Asociado/SIGEEA_Asociado_SIGEEA_FacAsociado" />
+      <nodes>
+        <classShapeMoniker Id="5a399b12-7681-4fac-8662-6fbe43540a53" />
+        <classShapeMoniker Id="84a781d3-2299-4330-b899-7defeb72208a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(15.25 : 30.5); (14.9964255650989 : 30.2464255650989 : JumpStart); (14.8785744349011 : 30.1285744349011 : JumpEnd); (14.875 : 30.125); (14.875 : 27.2412019856771); (14.25 : 27.2412019856771)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_FacCliente/SIGEEA_FacCliente_SIGEEA_AboCliente" />
+      <nodes>
+        <classShapeMoniker Id="1c304b47-5d55-4269-84ec-b5edcf09d748" />
+        <classShapeMoniker Id="30027cea-d886-4a9b-85ce-8719cf9165cf" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(16.281252 : 30.5); (16.281252 : 29.3862939453125); (15.8489593333333 : 29.3862939453125 : JumpStart); (15.6822926666667 : 29.3862939453125 : JumpEnd); (15.0208333333333 : 29.3862939453125 : JumpStart); (14.7916666666667 : 29.3862939453125 : JumpEnd); (12.0833333333333 : 29.3862939453125 : JumpStart); (11.7916666666667 : 29.3862939453125 : JumpEnd); (11.7083333333333 : 29.3862939453125 : JumpStart); (11.5416666666667 : 29.3862939453125 : JumpEnd); (11.5 : 29.3862939453125); (11.5 : 23.2412019856771); (11.4895833333333 : 23.2412019856771 : JumpStart); (11.3229166666667 : 23.2412019856771 : JumpEnd); (8.95833333333333 : 23.2412019856771 : JumpStart); (8.79166666666667 : 23.2412019856771 : JumpEnd); (8.53645833333333 : 23.2412019856771 : JumpStart); (8.36979166666667 : 23.2412019856771 : JumpEnd); (8.25 : 23.2412019856771)]" fixedFrom="Algorithm" fixedTo="NotFixed">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_FacCliente/SIGEEA_FacCliente_SIGEEA_CreCliente" />
+      <nodes>
+        <classShapeMoniker Id="1c304b47-5d55-4269-84ec-b5edcf09d748" />
+        <classShapeMoniker Id="44759a5e-13f2-4fc9-9380-62159cf58151" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(17.25 : 32.2412019856771); (17.5416666666667 : 32.2412019856771 : JumpStart); (17.7083333333333 : 32.2412019856771 : JumpEnd); (18 : 32.2412019856771)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_FacCliente/SIGEEA_FacCliente_SIGEEA_DetFacCliente" />
+      <nodes>
+        <classShapeMoniker Id="1c304b47-5d55-4269-84ec-b5edcf09d748" />
+        <classShapeMoniker Id="ac9f148e-b374-48db-8474-4698530e0080" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 27.9106742695312); (5.61979166666667 : 27.9106742695312 : JumpStart); (5.78645833333333 : 27.9106742695312 : JumpEnd); (5.79166666666667 : 27.9106742695312 : JumpStart); (6.20833333333333 : 27.9106742695312 : JumpEnd); (6.25 : 27.9106742695312); (6.25 : 28.7324039713542); (7.32291341666667 : 28.7324039713542 : JumpStart); (7.48958008333333 : 28.7324039713542 : JumpEnd); (7.80728879166667 : 28.7324039713542 : JumpStart); (7.97395545833333 : 28.7324039713542 : JumpEnd); (8.29166416666667 : 28.7324039713542 : JumpStart); (8.52083583333333 : 28.7324039713542 : JumpEnd); (11.3229166666667 : 28.7324039713542 : JumpStart); (11.7083333333333 : 28.7324039713542 : JumpEnd); (11.7916666666667 : 28.7324039713542 : JumpStart); (11.9583333333333 : 28.7324039713542 : JumpEnd); (13.1666666666667 : 28.7324039713542 : JumpStart); (13.3333333333333 : 28.7324039713542 : JumpEnd); (14.7916666666667 : 28.7324039713542 : JumpStart); (14.9583333333333 : 28.7324039713542 : JumpEnd); (15 : 28.7324039713542); (15 : 29.1362939453125); (15.765626 : 29.1362939453125); (15.765626 : 30.5)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Cliente/SIGEEA_Cliente_SIGEEA_FacCliente" />
+      <nodes>
+        <classShapeMoniker Id="e92be72f-1c07-4174-9f56-b4e4b31e7183" />
+        <classShapeMoniker Id="1c304b47-5d55-4269-84ec-b5edcf09d748" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 35.786472202474); (5.61979166666667 : 35.786472202474 : JumpStart); (5.78645833333333 : 35.786472202474 : JumpEnd); (6 : 35.786472202474); (6 : 34.875); (6.10416666666667 : 34.875 : JumpStart); (6.33333333333333 : 34.875 : JumpEnd); (8.32291666666667 : 34.875 : JumpStart); (8.48958333333333 : 34.875 : JumpEnd); (8.54166666666667 : 34.875 : JumpStart); (8.83333333333333 : 34.875 : JumpEnd); (8.85416666666667 : 34.875 : JumpStart); (9.08333333333333 : 34.875 : JumpEnd); (11.5416666666667 : 34.875 : JumpStart); (11.7083333333333 : 34.875 : JumpEnd); (11.75 : 34.875); (11.75 : 33.875); (11.9166666666667 : 33.875 : JumpStart); (12.2083333333333 : 33.875 : JumpEnd); (14.5416666666667 : 33.875 : JumpStart); (14.8333333333333 : 33.875 : JumpEnd); (15 : 33.875); (15 : 34.0593082682292); (15.6354146666667 : 34.0593082682292 : JumpStart); (15.8020813333333 : 34.0593082682292 : JumpEnd); (16.25 : 34.0593082682292); (16.25 : 33.8093082682292)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Empleado/SIGEEA_Empleado_SIGEEA_FacCliente" />
+      <nodes>
+        <classShapeMoniker Id="ca047a8b-ec7d-4476-a843-b639dd9fcdb1" />
+        <classShapeMoniker Id="1c304b47-5d55-4269-84ec-b5edcf09d748" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 32.2047506282552); (2.82291666666667 : 32.2047506282552 : JumpStart); (2.98958333333333 : 32.2047506282552 : JumpEnd); (3.19791666666667 : 32.2047506282552 : JumpStart); (3.36458333333333 : 32.2047506282552 : JumpEnd); (5.61979166666667 : 32.2047506282552 : JumpStart); (5.78645833333333 : 32.2047506282552 : JumpEnd); (5.79166666666667 : 32.2047506282552 : JumpStart); (6.27083333333333 : 32.2047506282552 : JumpEnd); (8.32291666666667 : 32.2047506282552 : JumpStart); (8.48958333333333 : 32.2047506282552 : JumpEnd); (8.54166666666667 : 32.2047506282552 : JumpStart); (8.83333333333333 : 32.2047506282552 : JumpEnd); (8.875 : 32.2047506282552); (8.875 : 34.3958968098958); (8.91666666666667 : 34.3958968098958 : JumpStart); (9.08333333333333 : 34.3958968098958 : JumpEnd); (11.5416666666667 : 34.3958968098958 : JumpStart); (11.8333333333333 : 34.3958968098958 : JumpEnd); (11.9166666666667 : 34.3958968098958 : JumpStart); (12.0833333333333 : 34.3958968098958 : JumpEnd); (12.125 : 34.3958968098958); (12.125 : 33.625); (14.5416666666667 : 33.625 : JumpStart); (14.7083333333333 : 33.625 : JumpEnd); (14.75 : 33.625); (14.75 : 34.3093082682292); (14.8541666666667 : 34.3093082682292 : JumpStart); (15.0208333333333 : 34.3093082682292 : JumpEnd); (15.718748 : 34.3093082682292); (15.718748 : 33.8093082682292)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Empresa/SIGEEA_Empresa_SIGEEA_FacCliente" />
+      <nodes>
+        <classShapeMoniker Id="98981318-cc71-44c4-b5cc-ba62037e47de" />
+        <classShapeMoniker Id="1c304b47-5d55-4269-84ec-b5edcf09d748" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.5 : 35.375); (4.5 : 35); (4.94791916666667 : 35 : JumpStart); (5.11458583333333 : 35 : JumpEnd); (5.61979166666667 : 35 : JumpStart); (5.78645833333333 : 35 : JumpEnd); (5.85416666666667 : 35 : JumpStart); (6.33333333333333 : 35 : JumpEnd); (8.32291666666667 : 35 : JumpStart); (8.48958333333333 : 35 : JumpEnd); (8.54166666666667 : 35 : JumpStart); (8.83333333333333 : 35 : JumpEnd); (8.85416666666667 : 35 : JumpStart); (9.08333333333333 : 35 : JumpEnd); (9.125 : 35); (9.125 : 37.0208968098958); (11.5416666666667 : 37.0208968098958 : JumpStart); (11.7083333333333 : 37.0208968098958 : JumpEnd); (14.5416666666667 : 37.0208968098958 : JumpStart); (14.7083333333333 : 37.0208968098958 : JumpEnd); (14.875 : 37.0208968098958); (14.875 : 36.1739005533854); (15.0104166666667 : 36.1739005533854 : JumpStart); (15.1770833333333 : 36.1739005533854 : JumpEnd); (15.25 : 36.1739005533854)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Empleado/SIGEEA_Empleado_SIGEEA_FacInsumo" />
+      <nodes>
+        <classShapeMoniker Id="ca047a8b-ec7d-4476-a843-b639dd9fcdb1" />
+        <classShapeMoniker Id="c50ace68-b8fc-41a7-998a-e5fe1b9cbdfd" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(7.890622125 : 28.3478011067708); (7.890622125 : 29); (8.29166416666667 : 29 : JumpStart); (8.52083583333333 : 29 : JumpEnd); (8.625 : 29); (8.625 : 35.8854484049479); (8.66666666666667 : 35.8854484049479 : JumpStart); (8.83333333333333 : 35.8854484049479 : JumpEnd); (8.85416666666667 : 35.8854484049479 : JumpStart); (9.20833333333333 : 35.8854484049479 : JumpEnd); (9.25 : 35.8854484049479)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Asociado/SIGEEA_Asociado_SIGEEA_Familiar" />
+      <nodes>
+        <classShapeMoniker Id="5a399b12-7681-4fac-8662-6fbe43540a53" />
+        <classShapeMoniker Id="b89bf85f-7259-4167-8cab-3b2c99ff1a0e" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.4375025 : 28.3478011067708); (8.4375025 : 31.7776965332031); (8.54166666666667 : 31.7776965332031 : JumpStart); (8.83333333333333 : 31.7776965332031 : JumpEnd); (9.01041666666667 : 31.7776965332031 : JumpStart); (9.17708333333333 : 31.7776965332031 : JumpEnd); (11.1666666666667 : 31.7776965332031 : JumpStart); (11.4895833333333 : 31.7776965332031 : JumpEnd); (11.5416666666667 : 31.7776965332031 : JumpStart); (11.7083333333333 : 31.7776965332031 : JumpEnd); (11.9166666666667 : 31.7776965332031 : JumpStart); (12.0833333333333 : 31.7776965332031 : JumpEnd); (12.25 : 31.7776965332031)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Asociado/SIGEEA_Asociado_SIGEEA_Finca" />
+      <nodes>
+        <classShapeMoniker Id="5a399b12-7681-4fac-8662-6fbe43540a53" />
+        <classShapeMoniker Id="b6fc547f-90bb-479a-bc09-bdd41b241d7c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3 : 14.2035953776042); (3.06607443490112 : 14.2696698125053 : JumpStart); (3.18392556509888 : 14.387520942703 : JumpEnd); (3.375 : 14.5785953776042); (3.83854066666667 : 14.5785953776042 : JumpStart); (4.00520733333333 : 14.5785953776042 : JumpEnd); (4.13541466666667 : 14.5785953776042 : JumpStart); (4.30208133333333 : 14.5785953776042 : JumpEnd); (4.40104066666667 : 14.5785953776042 : JumpStart); (4.56770733333333 : 14.5785953776042 : JumpEnd); (4.66666666666667 : 14.5785953776042 : JumpStart); (4.83333333333333 : 14.5785953776042 : JumpEnd); (4.93229266666667 : 14.5785953776042 : JumpStart); (5.09895933333333 : 14.5785953776042 : JumpEnd); (5.19791866666667 : 14.5785953776042 : JumpStart); (5.36458533333333 : 14.5785953776042 : JumpEnd); (5.46354466666667 : 14.5785953776042 : JumpStart); (5.63021133333333 : 14.5785953776042 : JumpEnd); (11.875 : 14.5785953776042); (11.875 : 29.5); (11.9410744349011 : 29.5660744349011 : JumpStart); (12.0589255650989 : 29.6839255650989 : JumpEnd); (12.25 : 29.875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Direccion/SIGEEA_Direccion_SIGEEA_Finca" />
+      <nodes>
+        <classShapeMoniker Id="e5eba6ae-358c-4d68-990e-77dd88f031a5" />
+        <classShapeMoniker Id="b6fc547f-90bb-479a-bc09-bdd41b241d7c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 35.3763612283153); (5.64419943490112 : 35.2321617934142 : JumpStart); (5.76205056509888 : 35.1143106632164 : JumpEnd); (5.875 : 35.0013612283153); (5.875 : 31.3646468098958); (5.97916666666667 : 31.3646468098958 : JumpStart); (6.27083333333333 : 31.3646468098958 : JumpEnd); (8.29166416666667 : 31.3646468098958 : JumpStart); (8.52083583333333 : 31.3646468098958 : JumpEnd); (8.54166666666667 : 31.3646468098958 : JumpStart); (8.83333333333333 : 31.3646468098958 : JumpEnd); (9.01041666666667 : 31.3646468098958 : JumpStart); (9.17708333333333 : 31.3646468098958 : JumpEnd); (10.1666666666667 : 31.3646468098958 : JumpStart); (10.3333333333333 : 31.3646468098958 : JumpEnd); (11.3229166666667 : 31.3646468098958 : JumpStart); (11.4895833333333 : 31.3646468098958 : JumpEnd); (11.5416666666667 : 31.3646468098958 : JumpStart); (11.7083333333333 : 31.3646468098958 : JumpEnd); (11.9166666666667 : 31.3646468098958 : JumpStart); (12.0833333333333 : 31.3646468098958 : JumpEnd); (12.25 : 31.3646468098958)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Empleado/SIGEEA_Empleado_SIGEEA_Finca" />
+      <nodes>
+        <classShapeMoniker Id="ca047a8b-ec7d-4476-a843-b639dd9fcdb1" />
+        <classShapeMoniker Id="b6fc547f-90bb-479a-bc09-bdd41b241d7c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 37.1458968098958); (5.64419943490112 : 37.2900962447969 : JumpStart); (5.76205056509888 : 37.4079473749947 : JumpEnd); (5.875 : 37.5208968098958); (5.875 : 39.4431469726563); (5.91666666666667 : 39.4431469726563 : JumpStart); (6.14583333333333 : 39.4431469726563 : JumpEnd); (6.25 : 39.4431469726563)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Empleado/SIGEEA_Empleado_SIGEEA_HisDelictivo" />
+      <nodes>
+        <classShapeMoniker Id="ca047a8b-ec7d-4476-a843-b639dd9fcdb1" />
+        <classShapeMoniker Id="b00f2d65-e038-4426-8bbb-53793296f466" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(14.25 : 34.6234041341146); (14.5416666666667 : 34.6234041341146 : JumpStart); (14.7083333333333 : 34.6234041341146 : JumpEnd); (14.8541666666667 : 34.6234041341146 : JumpStart); (15.0208333333333 : 34.6234041341146 : JumpEnd); (15.09375 : 34.6234041341146); (15.09375 : 38.5)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_HorLaborada/SIGEEA_HorLaborada_SIGEEA_DetPagEmpleado" />
+      <nodes>
+        <classShapeMoniker Id="61ce4b61-24e3-47b8-93ec-f7007e7ef034" />
+        <classShapeMoniker Id="07849ab4-6c25-49bb-8215-ad49853c03a1" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.0312525 : 35.375); (5.0312525 : 34.5729484049479); (5.61979166666667 : 34.5729484049479 : JumpStart); (5.78645833333333 : 34.5729484049479 : JumpEnd); (5.79166666666667 : 34.5729484049479 : JumpStart); (6.27083333333333 : 34.5729484049479 : JumpEnd); (8.32291666666667 : 34.5729484049479 : JumpStart); (8.48958333333333 : 34.5729484049479 : JumpEnd); (8.54166666666667 : 34.5729484049479 : JumpStart); (8.83333333333333 : 34.5729484049479 : JumpEnd); (8.85416666666667 : 34.5729484049479 : JumpStart); (9.08333333333333 : 34.5729484049479 : JumpEnd); (11.5416666666667 : 34.5729484049479 : JumpStart); (11.8333333333333 : 34.5729484049479 : JumpEnd); (11.9166666666667 : 34.5729484049479 : JumpStart); (12.0833333333333 : 34.5729484049479 : JumpEnd); (12.25 : 34.5729484049479)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Empleado/SIGEEA_Empleado_SIGEEA_HorLaborada" />
+      <nodes>
+        <classShapeMoniker Id="ca047a8b-ec7d-4476-a843-b639dd9fcdb1" />
+        <classShapeMoniker Id="61ce4b61-24e3-47b8-93ec-f7007e7ef034" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(20 : 40.7892976888021); (20.75 : 40.7892976888021)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_InvInsumo/SIGEEA_InvInsumo_SIGEEA_DetFacInsumo" />
+      <nodes>
+        <classShapeMoniker Id="884eaa81-1021-491f-9d17-4df7abe9e120" />
+        <classShapeMoniker Id="28309381-47af-41e2-8249-fc5e12a503c4" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 53.1642976888021); (8.79166666666667 : 53.1642976888021 : JumpStart); (8.95833333333333 : 53.1642976888021 : JumpEnd); (17.1666666666667 : 53.1642976888021 : JumpStart); (17.3333333333333 : 53.1642976888021 : JumpEnd); (19 : 53.1642976888021); (19 : 41.5785953776042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Insumo/SIGEEA_Insumo_SIGEEA_InvInsumo" />
+      <nodes>
+        <classShapeMoniker Id="fcbe66d1-bbfc-4b43-8850-1f1edeaae1a7" />
+        <classShapeMoniker Id="884eaa81-1021-491f-9d17-4df7abe9e120" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 33.1931469726563); (8.32291666666667 : 33.1931469726563 : JumpStart); (8.48958333333333 : 33.1931469726563 : JumpEnd); (8.54166666666667 : 33.1931469726563 : JumpStart); (8.95833333333333 : 33.1931469726563 : JumpEnd); (9 : 33.1931469726563)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_InvProducto/SIGEEA_InvProducto_SIGEEA_DetInvProducto" />
+      <nodes>
+        <classShapeMoniker Id="bda20b3d-79b8-4640-843b-fb4accc45bd1" />
+        <classShapeMoniker Id="b1be0649-681d-4260-84d2-cb19e1a1ce11" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 33.1931469726563); (5.61979166666667 : 33.1931469726563 : JumpStart); (5.78645833333333 : 33.1931469726563 : JumpEnd); (5.79166666666667 : 33.1931469726563 : JumpStart); (6.14583333333333 : 33.1931469726563 : JumpEnd); (6.25 : 33.1931469726563)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Bodega/SIGEEA_Bodega_SIGEEA_InvProducto" />
+      <nodes>
+        <classShapeMoniker Id="6c8a67f2-1d53-4e75-8c9e-1257b1cb765b" />
+        <classShapeMoniker Id="bda20b3d-79b8-4640-843b-fb4accc45bd1" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.3281245 : 43.25); (5.3281245 : 37.3958968098958); (5.61979166666667 : 37.3958968098958 : JumpStart); (5.83333333333333 : 37.3958968098958 : JumpEnd); (5.91666666666667 : 37.3958968098958 : JumpStart); (6.14583333333333 : 37.3958968098958 : JumpEnd); (6.29166666666667 : 37.3958968098958 : JumpStart); (6.45833333333333 : 37.3958968098958 : JumpEnd); (8.66666666666667 : 37.3958968098958 : JumpStart); (8.83333333333333 : 37.3958968098958 : JumpEnd); (8.85416666666667 : 37.3958968098958 : JumpStart); (9.08333333333333 : 37.3958968098958 : JumpEnd); (11.625 : 37.3958968098958); (11.625 : 27.1606742695312); (11.7916666666667 : 27.1606742695312 : JumpStart); (11.9583333333333 : 27.1606742695312 : JumpEnd); (12.25 : 27.1606742695312)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Moneda/SIGEEA_Moneda_SIGEEA_AboCliente" />
+      <nodes>
+        <classShapeMoniker Id="e8fa3bb4-4599-4cb2-8030-3339da10a010" />
+        <classShapeMoniker Id="30027cea-d886-4a9b-85ce-8719cf9165cf" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.703125 : 43.25); (5.703125 : 22.8577969791667); (5.72916666666667 : 22.8577969791667 : JumpStart); (6.20833333333333 : 22.8577969791667 : JumpEnd); (6.25 : 22.8577969791667)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Moneda/SIGEEA_Moneda_SIGEEA_CreCliente" />
+      <nodes>
+        <classShapeMoniker Id="e8fa3bb4-4599-4cb2-8030-3339da10a010" />
+        <classShapeMoniker Id="44759a5e-13f2-4fc9-9380-62159cf58151" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 44.2315991210938); (5.91666666666667 : 44.2315991210938 : JumpStart); (6.14583333333333 : 44.2315991210938 : JumpEnd); (6.5 : 44.2315991210938)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Moneda/SIGEEA_Moneda_SIGEEA_Cuota" />
+      <nodes>
+        <classShapeMoniker Id="e8fa3bb4-4599-4cb2-8030-3339da10a010" />
+        <classShapeMoniker Id="988c160c-dd8f-4377-b4c3-3cb9f87ed3a3" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.609375 : 43.25); (4.609375 : 37.4583968098958); (4.82291666666667 : 37.4583968098958 : JumpStart); (4.98958333333333 : 37.4583968098958 : JumpEnd); (5.06510641666667 : 37.4583968098958 : JumpStart); (5.23177308333333 : 37.4583968098958 : JumpEnd); (5.61979166666667 : 37.4583968098958 : JumpStart); (5.89583333333333 : 37.4583968098958 : JumpEnd); (5.91666666666667 : 37.4583968098958 : JumpStart); (6.14583333333333 : 37.4583968098958 : JumpEnd); (6.29166666666667 : 37.4583968098958 : JumpStart); (6.45833333333333 : 37.4583968098958 : JumpEnd); (8.66666666666667 : 37.4583968098958 : JumpStart); (8.83333333333333 : 37.4583968098958 : JumpEnd); (8.85416666666667 : 37.4583968098958 : JumpStart); (9.08333333333333 : 37.4583968098958 : JumpEnd); (14.625 : 37.4583968098958); (14.625 : 32.1859061341146); (14.8541666666667 : 32.1859061341146 : JumpStart); (15.0208333333333 : 32.1859061341146 : JumpEnd); (15.25 : 32.1859061341146)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Moneda/SIGEEA_Moneda_SIGEEA_FacCliente" />
+      <nodes>
+        <classShapeMoniker Id="e8fa3bb4-4599-4cb2-8030-3339da10a010" />
+        <classShapeMoniker Id="1c304b47-5d55-4269-84ec-b5edcf09d748" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.453125 : 20.1458968098958); (8.453125 : 24.7576496809896); (8.79166666666667 : 24.7576496809896 : JumpStart); (8.95833333333333 : 24.7576496809896 : JumpEnd); (9.25 : 24.7576496809896)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_PagAsociado/SIGEEA_PagAsociado_SIGEEA_AsociadoXPagAsociado" />
+      <nodes>
+        <classShapeMoniker Id="e17c75c7-e0f0-4d40-81fc-77f49cb6d987" />
+        <classShapeMoniker Id="1ed956d0-006c-4af1-b9b9-09a931243e87" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 40.96875); (8.85416666666667 : 40.96875 : JumpStart); (9.08333333333333 : 40.96875 : JumpEnd); (12.0104166666667 : 40.96875 : JumpStart); (12.1770833333333 : 40.96875 : JumpEnd); (13.1666666666667 : 40.96875 : JumpStart); (13.3333333333333 : 40.96875 : JumpEnd); (16 : 40.96875); (16 : 40.0785953776042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_PagEmpleado/SIGEEA_PagEmpleado_SIGEEA_DetPagEmpleado" />
+      <nodes>
+        <classShapeMoniker Id="0c2a12ea-2a17-4427-84da-ee6819d2ab73" />
+        <classShapeMoniker Id="07849ab4-6c25-49bb-8215-ad49853c03a1" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.14843975 : 37.1458968098958); (5.14843975 : 41.6642976888021); (5.24479116666667 : 41.6642976888021 : JumpStart); (5.41145783333333 : 41.6642976888021 : JumpEnd); (5.61979166666667 : 41.6642976888021 : JumpStart); (5.78645833333333 : 41.6642976888021 : JumpEnd); (5.91666666666667 : 41.6642976888021 : JumpStart); (6.14583333333333 : 41.6642976888021 : JumpEnd); (6.25 : 41.6642976888021)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Empleado/SIGEEA_Empleado_SIGEEA_PagEmpleado" />
+      <nodes>
+        <classShapeMoniker Id="ca047a8b-ec7d-4476-a843-b639dd9fcdb1" />
+        <classShapeMoniker Id="0c2a12ea-2a17-4427-84da-ee6819d2ab73" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3.125 : 1.94399251302083); (3.125 : 3.625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Pai/SIGEEA_Pai_SIGEEA_Estado" />
+      <nodes>
+        <classShapeMoniker Id="eb2d3ecd-7c91-4c01-8b3c-ef43bc952a65" />
+        <classShapeMoniker Id="fe3320dc-3a33-471d-85d1-44a3785b0a52" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 36.4974365061849); (5.61979166666667 : 36.4974365061849 : JumpStart); (5.78645833333333 : 36.4974365061849 : JumpEnd); (6.10416666666667 : 36.4974365061849 : JumpStart); (6.27083333333333 : 36.4974365061849 : JumpEnd); (6.375 : 36.4974365061849); (6.375 : 37.7131982421875); (8.66666666666667 : 37.7131982421875 : JumpStart); (8.83333333333333 : 37.7131982421875 : JumpEnd); (8.85416666666667 : 37.7131982421875 : JumpStart); (9.08333333333333 : 37.7131982421875 : JumpEnd); (9.125 : 37.7131982421875); (9.125 : 40.4151025390625); (12.0104166666667 : 40.4151025390625 : JumpStart); (12.1770833333333 : 40.4151025390625 : JumpEnd); (13.25 : 40.4151025390625); (13.25 : 41.125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Empleado/SIGEEA_Empleado_SIGEEA_PedInsumo" />
+      <nodes>
+        <classShapeMoniker Id="ca047a8b-ec7d-4476-a843-b639dd9fcdb1" />
+        <classShapeMoniker Id="363f7ced-b2e6-40c7-860a-0f105c4d06b2" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 52.375); (6.125 : 52); (8.79166666666667 : 52 : JumpStart); (8.95833333333333 : 52 : JumpEnd); (11.875 : 52); (11.875 : 43.6554996744792); (12.0348244349011 : 43.495675239578 : JumpStart); (12.1526755650989 : 43.3778241093803 : JumpEnd); (12.25 : 43.2804996744792)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Insumo/SIGEEA_Insumo_SIGEEA_PedInsumo" />
+      <nodes>
+        <classShapeMoniker Id="fcbe66d1-bbfc-4b43-8850-1f1edeaae1a7" />
+        <classShapeMoniker Id="363f7ced-b2e6-40c7-860a-0f105c4d06b2" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 56.2219962565104); (6.25 : 56.2219962565104); (6.25 : 55.25); (8.66666666666667 : 55.25 : JumpStart); (8.83333333333333 : 55.25 : JumpEnd); (17.25 : 55.25); (17.25 : 37.5978011067708); (15.1770833333333 : 37.5978011067708 : JumpStart); (15.0104166666667 : 37.5978011067708 : JumpEnd); (14.9375 : 37.5978011067708); (14.9375 : 26.5112939453125); (16.25 : 26.5112939453125); (16.25 : 26.1362939453125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Permiso/SIGEEA_Permiso_SIGEEA_Permiso_SubModulo" />
+      <nodes>
+        <classShapeMoniker Id="10f4dda0-0cb8-4571-8662-0f04337ee89e" />
+        <classShapeMoniker Id="3d0a4744-8833-49bd-8385-7f2ea3c9bc07" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.75 : 13.9920068359375); (4.75 : 16.125); (5.19791866666667 : 16.125 : JumpStart); (5.36458533333333 : 16.125 : JumpEnd); (6 : 16.125); (6 : 27.3644131210938); (6.04166666666667 : 27.3644131210938 : JumpStart); (6.27083333333333 : 27.3644131210938 : JumpEnd); (6.5 : 27.3644131210938)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Persona/SIGEEA_Persona_SIGEEA_Asociado" />
+      <nodes>
+        <classShapeMoniker Id="a08d47b9-fb44-45ac-8f11-e5053449eddd" />
+        <classShapeMoniker Id="5a399b12-7681-4fac-8662-6fbe43540a53" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.218748 : 13.9920068359375); (4.218748 : 15.875); (4.40104066666667 : 15.875 : JumpStart); (4.56770733333333 : 15.875 : JumpEnd); (4.66666666666667 : 15.875 : JumpStart); (4.83333333333333 : 15.875 : JumpEnd); (4.93229266666667 : 15.875 : JumpStart); (5.09895933333333 : 15.875 : JumpEnd); (5.19791866666667 : 15.875 : JumpStart); (5.36458533333333 : 15.875 : JumpEnd); (5.85416666666667 : 15.875 : JumpStart); (6.02083333333333 : 15.875 : JumpEnd); (6.125 : 15.875); (6.125 : 28.8586266744792); (6.02083333333333 : 28.8586266744792 : JumpStart); (5.79166666666667 : 28.8586266744792 : JumpEnd); (5.78645833333333 : 28.8586266744792 : JumpStart); (5.61979166666667 : 28.8586266744792 : JumpEnd); (5.5 : 28.8586266744792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Persona/SIGEEA_Persona_SIGEEA_Cliente" />
+      <nodes>
+        <classShapeMoniker Id="a08d47b9-fb44-45ac-8f11-e5053449eddd" />
+        <classShapeMoniker Id="e92be72f-1c07-4174-9f56-b4e4b31e7183" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 12.4142976888021); (6.5 : 12.4142976888021)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Persona/SIGEEA_Persona_SIGEEA_Contacto" />
+      <nodes>
+        <classShapeMoniker Id="a08d47b9-fb44-45ac-8f11-e5053449eddd" />
+        <classShapeMoniker Id="b2916da7-2d6f-48ec-a047-a96660141797" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.281252 : 13.9920068359375); (5.281252 : 16.25); (5.875 : 16.25); (5.875 : 29.880222202474); (5.97916666666667 : 29.880222202474 : JumpStart); (6.14583333333333 : 29.880222202474 : JumpEnd); (6.25 : 29.880222202474)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Persona/SIGEEA_Persona_SIGEEA_Cuenta" />
+      <nodes>
+        <classShapeMoniker Id="a08d47b9-fb44-45ac-8f11-e5053449eddd" />
+        <classShapeMoniker Id="41725523-aa92-4f1f-a336-47bbebcfedd7" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.484374 : 13.9920068359375); (4.484374 : 16); (4.66666666666667 : 16 : JumpStart); (4.83333333333333 : 16 : JumpEnd); (4.93229266666667 : 16 : JumpStart); (5.09895933333333 : 16 : JumpEnd); (5.19791866666667 : 16 : JumpStart); (5.36458533333333 : 16 : JumpEnd); (5.85416666666667 : 16 : JumpStart); (6.02083333333333 : 16 : JumpEnd); (6.0625 : 16); (6.0625 : 36.0234603037109); (5.78645833333333 : 36.0234603037109 : JumpStart); (5.61979166666667 : 36.0234603037109 : JumpEnd); (5.5 : 36.0234603037109)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Persona/SIGEEA_Persona_SIGEEA_Empleado" />
+      <nodes>
+        <classShapeMoniker Id="a08d47b9-fb44-45ac-8f11-e5053449eddd" />
+        <classShapeMoniker Id="ca047a8b-ec7d-4476-a843-b639dd9fcdb1" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3 : 12.957148844401); (3.04166666666667 : 12.957148844401 : JumpStart); (3.20833333333333 : 12.957148844401 : JumpEnd); (3.26041716666667 : 12.957148844401 : JumpStart); (3.42708383333333 : 12.957148844401 : JumpEnd); (3.75 : 12.957148844401)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Direccion/SIGEEA_Direccion_SIGEEA_Persona" />
+      <nodes>
+        <classShapeMoniker Id="e5eba6ae-358c-4d68-990e-77dd88f031a5" />
+        <classShapeMoniker Id="a08d47b9-fb44-45ac-8f11-e5053449eddd" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3 : 10.9430730572416); (3.06607443490112 : 11.0091474921427 : JumpStart); (3.18392556509888 : 11.1269986223405 : JumpEnd); (3.28482493490112 : 11.2278979921427 : JumpStart); (3.40267606509888 : 11.3457491223405 : JumpEnd); (3.5 : 11.4430730572416); (3.5 : 10.6234625384615); (3.75153746153846 : 10.875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Nacionalidad/SIGEEA_Nacionalidad_SIGEEA_Persona" />
+      <nodes>
+        <classShapeMoniker Id="cf50e437-fd01-4cb4-9bb5-7140f646f12a" />
+        <classShapeMoniker Id="a08d47b9-fb44-45ac-8f11-e5053449eddd" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.25 : 47.1482975260417); (11.7916666666667 : 47.1482975260417 : JumpStart); (11.9583333333333 : 47.1482975260417 : JumpEnd); (12.09375 : 47.1482975260417); (12.09375 : 40.1651025390625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_PreProCompra/SIGEEA_PreProCompra_SIGEEA_DetFacAsociado" />
+      <nodes>
+        <classShapeMoniker Id="def344c4-23ef-46ee-b9d0-960aa06d6da1" />
+        <classShapeMoniker Id="210be30e-f972-4f70-8d46-501f0e1f2e3c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.75 : 45.2131982421875); (4.75 : 45.5753496210938); (5.91666666666667 : 45.5753496210938 : JumpStart); (6.08333333333333 : 45.5753496210938 : JumpEnd); (8.66666666666667 : 45.5753496210938 : JumpStart); (8.95833333333333 : 45.5753496210938 : JumpEnd); (9.04166666666667 : 45.5753496210938 : JumpStart); (9.20833333333333 : 45.5753496210938 : JumpEnd); (11.7916666666667 : 45.5753496210938 : JumpStart); (11.9583333333333 : 45.5753496210938 : JumpEnd); (12.0104166666667 : 45.5753496210938 : JumpStart); (12.1770833333333 : 45.5753496210938 : JumpEnd); (12.25 : 45.5753496210938)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Moneda/SIGEEA_Moneda_SIGEEA_PreProVenta" />
+      <nodes>
+        <classShapeMoniker Id="e8fa3bb4-4599-4cb2-8030-3339da10a010" />
+        <classShapeMoniker Id="43a6a394-8aeb-4288-bd7c-8b1c4bba33f8" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.5 : 37.1795475260417); (8.66666666666667 : 37.1795475260417 : JumpStart); (8.83333333333333 : 37.1795475260417 : JumpEnd); (8.85416666666667 : 37.1795475260417 : JumpStart); (9.08333333333333 : 37.1795475260417 : JumpEnd); (11.5416666666667 : 37.1795475260417 : JumpStart); (11.7083333333333 : 37.1795475260417 : JumpEnd); (14.5416666666667 : 37.1795475260417 : JumpStart); (14.7083333333333 : 37.1795475260417 : JumpEnd); (14.8541666666667 : 37.1795475260417 : JumpStart); (15.1770833333333 : 37.1795475260417 : JumpEnd); (15.25 : 37.1795475260417)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Proveedor/SIGEEA_Proveedor_SIGEEA_FacInsumo" />
+      <nodes>
+        <classShapeMoniker Id="1b360c7a-7c3d-40cb-9983-bb52c6024fec" />
+        <classShapeMoniker Id="c50ace68-b8fc-41a7-998a-e5fe1b9cbdfd" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 31.8748438948568); (2.82291666666667 : 31.8748438948568 : JumpStart); (2.98958333333333 : 31.8748438948568 : JumpEnd); (3.19791666666667 : 31.8748438948568 : JumpStart); (3.36458333333333 : 31.8748438948568 : JumpEnd); (5.61979166666667 : 31.8748438948568 : JumpStart); (5.78645833333333 : 31.8748438948568 : JumpEnd); (5.79166666666667 : 31.8748438948568 : JumpStart); (6.27083333333333 : 31.8748438948568 : JumpEnd); (8.40625 : 31.8748438948568); (8.40625 : 35.25)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Empresa/SIGEEA_Empresa_SIGEEA_Proveedor" />
+      <nodes>
+        <classShapeMoniker Id="98981318-cc71-44c4-b5cc-ba62037e47de" />
+        <classShapeMoniker Id="1b360c7a-7c3d-40cb-9983-bb52c6024fec" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.546878 : 13.9920068359375); (5.546878 : 15.75); (5.9375 : 15.75); (5.9375 : 35.518236601237); (5.97916666666667 : 35.518236601237 : JumpStart); (6.33333333333333 : 35.518236601237 : JumpEnd); (6.5 : 35.518236601237)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Persona/SIGEEA_Persona_SIGEEA_Proveedor" />
+      <nodes>
+        <classShapeMoniker Id="a08d47b9-fb44-45ac-8f11-e5053449eddd" />
+        <classShapeMoniker Id="1b360c7a-7c3d-40cb-9983-bb52c6024fec" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.015626 : 13.9920068359375); (5.015626 : 16.1875); (5.85416666666667 : 16.1875 : JumpStart); (6.14583333333333 : 16.1875 : JumpEnd); (6.1875 : 16.1875); (6.1875 : 36.9738109248047); (6.29166666666667 : 36.9738109248047 : JumpStart); (6.45833333333333 : 36.9738109248047 : JumpEnd); (6.5 : 36.9738109248047)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Persona/SIGEEA_Persona_SIGEEA_Proveedor1" />
+      <nodes>
+        <classShapeMoniker Id="a08d47b9-fb44-45ac-8f11-e5053449eddd" />
+        <classShapeMoniker Id="1b360c7a-7c3d-40cb-9983-bb52c6024fec" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.2500005 : 52.375); (4.2500005 : 45.3381982421875); (4.66666666666667 : 45.3381982421875 : JumpStart); (4.83333333333333 : 45.3381982421875 : JumpEnd); (6.0625 : 45.3381982421875); (6.0625 : 36.6159305568034); (6.10416666666667 : 36.6159305568034 : JumpStart); (6.27083333333333 : 36.6159305568034 : JumpEnd); (6.29166666666667 : 36.6159305568034 : JumpStart); (6.45833333333333 : 36.6159305568034 : JumpEnd); (6.5 : 36.6159305568034)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Insumo/SIGEEA_Insumo_SIGEEA_Proveedor" />
+      <nodes>
+        <classShapeMoniker Id="fcbe66d1-bbfc-4b43-8850-1f1edeaae1a7" />
+        <classShapeMoniker Id="1b360c7a-7c3d-40cb-9983-bb52c6024fec" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.90625 : 38.75); (2.90625 : 26.1362939453125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Provincia/SIGEEA_Provincia_SIGEEA_Canton" />
+      <nodes>
+        <classShapeMoniker Id="fd265b31-3b5a-4244-86f3-0c44c063e702" />
+        <classShapeMoniker Id="943da2fb-73e7-4b9c-ad37-6f5c7af55c33" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.25 : 1.34699625651042); (2 : 1.34699625651042); (2 : 3.375); (3.04166666666667 : 3.375 : JumpStart); (3.20833333333333 : 3.375 : JumpEnd); (4.25 : 3.375); (4.25 : 8.625); (3.42708383333333 : 8.625 : JumpStart); (3.26041716666667 : 8.625 : JumpEnd); (3.125 : 8.625); (3.125 : 21.5); (4.25 : 21.5); (4.25 : 27.125); (3.28125 : 27.125); (3.28125 : 38.75)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Pai/SIGEEA_Pai_SIGEEA_Provincia" />
+      <nodes>
+        <classShapeMoniker Id="eb2d3ecd-7c91-4c01-8b3c-ef43bc952a65" />
+        <classShapeMoniker Id="fd265b31-3b5a-4244-86f3-0c44c063e702" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.40625 : 22.1458968098958); (11.40625 : 34.1979484049479); (11.5416666666667 : 34.1979484049479 : JumpStart); (11.8333333333333 : 34.1979484049479 : JumpEnd); (11.9166666666667 : 34.1979484049479 : JumpStart); (12.2083333333333 : 34.1979484049479 : JumpEnd); (12.25 : 34.1979484049479)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_PueTemporal/SIGEEA_PueTemporal_SIGEEA_HorLaborada" />
+      <nodes>
+        <classShapeMoniker Id="49caf36d-62a5-4d5d-ba63-dfb27fdbe7ab" />
+        <classShapeMoniker Id="61ce4b61-24e3-47b8-93ec-f7007e7ef034" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.75 : 17.9535953776042); (4.75 : 19); (5.8125 : 19); (5.8125 : 26.3465714863281); (5.85416666666667 : 26.3465714863281 : JumpStart); (6.27083333333333 : 26.3465714863281 : JumpEnd); (6.5 : 26.3465714863281)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Representante/SIGEEA_Representante_SIGEEA_Asociado" />
+      <nodes>
+        <classShapeMoniker Id="366ddc84-3d6f-4a5a-95e6-56a76808c65c" />
+        <classShapeMoniker Id="5a399b12-7681-4fac-8662-6fbe43540a53" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3.921874 : 13.9920068359375); (3.921874 : 16.375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Persona/SIGEEA_Persona_SIGEEA_Representante" />
+      <nodes>
+        <classShapeMoniker Id="a08d47b9-fb44-45ac-8f11-e5053449eddd" />
+        <classShapeMoniker Id="366ddc84-3d6f-4a5a-95e6-56a76808c65c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.5 : 55.5); (8.875 : 55.125); (8.875 : 42.0260714049479); (8.91666666666667 : 42.0260714049479 : JumpStart); (9.08333333333333 : 42.0260714049479 : JumpEnd); (9.25 : 42.0260714049479)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Rol/SIGEEA_Rol_SIGEEA_Usuario" />
+      <nodes>
+        <classShapeMoniker Id="388562aa-5398-4b17-a61b-7409b07bc0c6" />
+        <classShapeMoniker Id="e9415538-da5b-45ce-b7d9-b2e4102bdd2d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 55.8609981282552); (6.16666666666667 : 55.8609981282552 : JumpStart); (6.33333333333333 : 55.8609981282552 : JumpEnd); (6.5 : 55.8609981282552)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Permiso/SIGEEA_Permiso_SIGEEA_Rol" />
+      <nodes>
+        <classShapeMoniker Id="10f4dda0-0cb8-4571-8662-0f04337ee89e" />
+        <classShapeMoniker Id="388562aa-5398-4b17-a61b-7409b07bc0c6" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(9.5 : 2.81814697265625); (16.25 : 2.81814697265625); (16.25 : 24.75)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_SubModulo/SIGEEA_SubModulo_SIGEEA_Permiso_SubModulo" />
+      <nodes>
+        <classShapeMoniker Id="d5efc89f-e0ec-4c41-a44d-3f7d5cd35805" />
+        <classShapeMoniker Id="3d0a4744-8833-49bd-8385-7f2ea3c9bc07" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(6.75 : 2.84699625651042); (7.5 : 2.84699625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_Modulo/SIGEEA_Modulo_SIGEEA_SubModulo" />
+      <nodes>
+        <classShapeMoniker Id="23bc7c4f-98b5-46b4-b42d-7132ecc1ad74" />
+        <classShapeMoniker Id="d5efc89f-e0ec-4c41-a44d-3f7d5cd35805" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.5 : 46.625); (1.125 : 46.25); (0.375 : 46.25); (0.375 : 29.5222580382111); (0.751361228315304 : 29.1458968098958)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_TipCatCliente/SIGEEA_TipCatCliente_SIGEEA_CatCliente" />
+      <nodes>
+        <classShapeMoniker Id="fe106420-fd43-4727-9528-344c45465296" />
+        <classShapeMoniker Id="1978be8b-ed73-4c1e-a606-3e5cbc96926a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 9.95119466145833); (6.59375 : 9.95119466145833); (6.59375 : 11.625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_TipContacto/SIGEEA_TipContacto_SIGEEA_Contacto" />
+      <nodes>
+        <classShapeMoniker Id="62bddd30-07fe-4966-8d69-ca945c692799" />
+        <classShapeMoniker Id="b2916da7-2d6f-48ec-a047-a96660141797" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.5 : 46.7892976888021); (8.79166666666667 : 46.7892976888021 : JumpStart); (8.95833333333333 : 46.7892976888021 : JumpEnd); (9.125 : 46.7892976888021); (9.125 : 44.375); (11.7916666666667 : 44.375 : JumpStart); (11.9583333333333 : 44.375 : JumpEnd); (12.0104166666667 : 44.375 : JumpStart); (12.1770833333333 : 44.375 : JumpEnd); (17.1666666666667 : 44.375 : JumpStart); (17.3333333333333 : 44.375 : JumpEnd); (17.75 : 44.375); (17.75 : 33.9824039713542); (19 : 33.9824039713542); (19 : 33.6074039713542)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_TipProducto/SIGEEA_TipProducto_SIGEEA_DetFacCliente" />
+      <nodes>
+        <classShapeMoniker Id="cf198a23-428d-4101-99c3-172302a9bd93" />
+        <classShapeMoniker Id="ac9f148e-b374-48db-8474-4698530e0080" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.5 : 46.0619285109675); (8.69107443490112 : 45.8708540760664 : JumpStart); (8.80892556509888 : 45.7530029458687 : JumpEnd); (8.81607443490112 : 45.7458540760664 : JumpStart); (8.93392556509888 : 45.6280029458687 : JumpEnd); (8.9375 : 45.6244285109675); (8.9375 : 34.1458968098958); (8.875 : 34.1458968098958); (9 : 34.0208968098958)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_TipProducto/SIGEEA_TipProducto_SIGEEA_DetInvProducto" />
+      <nodes>
+        <classShapeMoniker Id="cf198a23-428d-4101-99c3-172302a9bd93" />
+        <classShapeMoniker Id="b1be0649-681d-4260-84d2-cb19e1a1ce11" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.5 : 47.2464465332031); (8.79166666666667 : 47.2464465332031 : JumpStart); (8.95833333333333 : 47.2464465332031 : JumpEnd); (9.25 : 47.2464465332031)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_TipProducto/SIGEEA_TipProducto_SIGEEA_PreProCompra" />
+      <nodes>
+        <classShapeMoniker Id="cf198a23-428d-4101-99c3-172302a9bd93" />
+        <classShapeMoniker Id="def344c4-23ef-46ee-b9d0-960aa06d6da1" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.5 : 46.4256130998848); (8.75 : 46.4256130998848); (8.75 : 45.0064228105469); (8.79166666666667 : 45.0064228105469 : JumpStart); (9.02083333333333 : 45.0064228105469 : JumpEnd); (9.04166666666667 : 45.0064228105469 : JumpStart); (9.20833333333333 : 45.0064228105469 : JumpEnd); (11.7916666666667 : 45.0064228105469 : JumpStart); (11.9583333333333 : 45.0064228105469 : JumpEnd); (12.0104166666667 : 45.0064228105469 : JumpStart); (12.1770833333333 : 45.0064228105469 : JumpEnd); (12.25 : 45.0064228105469)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_TipProducto/SIGEEA_TipProducto_SIGEEA_PreProVenta" />
+      <nodes>
+        <classShapeMoniker Id="cf198a23-428d-4101-99c3-172302a9bd93" />
+        <classShapeMoniker Id="43a6a394-8aeb-4288-bd7c-8b1c4bba33f8" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(17.25 : 28.1931469726563); (19 : 28.1931469726563); (19 : 30.875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_UniMedida/SIGEEA_UniMedida_SIGEEA_DetFacCliente" />
+      <nodes>
+        <classShapeMoniker Id="52899f39-c504-4156-855a-e10ea39542df" />
+        <classShapeMoniker Id="ac9f148e-b374-48db-8474-4698530e0080" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(15.25 : 28.8093489583333); (15.0208333333333 : 28.8093489583333 : JumpStart); (14.7916666666667 : 28.8093489583333 : JumpEnd); (13.3333333333333 : 28.8093489583333 : JumpStart); (13.1666666666667 : 28.8093489583333 : JumpEnd); (11.9583333333333 : 28.8093489583333 : JumpStart); (11.7916666666667 : 28.8093489583333 : JumpEnd); (11.7083333333333 : 28.8093489583333 : JumpStart); (11.3229166666667 : 28.8093489583333 : JumpEnd); (9.09375 : 28.8093489583333); (9.09375 : 32.25)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_UniMedida/SIGEEA_UniMedida_SIGEEA_DetInvProducto" />
+      <nodes>
+        <classShapeMoniker Id="52899f39-c504-4156-855a-e10ea39542df" />
+        <classShapeMoniker Id="b1be0649-681d-4260-84d2-cb19e1a1ce11" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(17.25 : 28.8862939453125); (17.625 : 29.2612939453125); (17.625 : 40.7892976888021); (17.6666666666667 : 40.7892976888021 : JumpStart); (17.8333333333333 : 40.7892976888021 : JumpEnd); (18 : 40.7892976888021)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/SIGEEA_UniMedida/SIGEEA_UniMedida_SIGEEA_InvInsumo" />
+      <nodes>
+        <classShapeMoniker Id="52899f39-c504-4156-855a-e10ea39542df" />
+        <classShapeMoniker Id="884eaa81-1021-491f-9d17-4df7abe9e120" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
